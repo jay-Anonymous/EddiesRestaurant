@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Eddie's Restaurant Menu</title>
+<style>
+dt {
+   color: GREEN;
+}
+</style>
+</head>
+<body>
+    <p>Breakfast Menu</p>
+    <ul>
+        <li>Coffee</li>
+        <li>African Tea</li>
+        <li>Mixed Tea</li>
+        <li>Bacon and eggs</li>
+        <li>Fresh Juice</li>
+    </ul>
+    <p>Lunchtime Menu</p>
+    <ol type='i'>
+        <li>Muthokoi</li>
+        <li>Grilled Beef</li>
+        <li>Whole fried chicken</li>
+	<li>Toad in a hole</li>
+	<li>Githeri</li>
+    </ol>
+
+    <p>Dinner Menu</p>
+    <dl>
+	<dt>Rice</dt>
+	<dd>
+	    <ol type='a'>
+		<li>Pilau</li>
+		<li>White rice</li>
+		<li>Biriyani</li>
+	    </ol>
+	</dd>
+	<dt>Milk</dt>
+	<dd>Soya, Lactose free, Goat, Camel</dd>
+    </dl>
+
+</body>
+</html>
