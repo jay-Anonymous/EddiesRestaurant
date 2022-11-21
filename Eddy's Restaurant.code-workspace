@@ -1,11 +1,17 @@
 {
 	"folders": [
 		{
+			"name": "Eddy's Restaurant",
 			"path": "."
 		},
 		{
+			"name": "nav.jpg",
 			"path": "../../Documents/nav.jpg"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
 }
