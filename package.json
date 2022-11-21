@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.2.4",
+    "terser": "^5.15.1"
+  }
+}
