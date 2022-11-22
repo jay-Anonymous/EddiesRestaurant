@@ -3,10 +3,6 @@
 		{
 			"name": "Eddy's Restaurant",
 			"path": "."
-		},
-		{
-			"name": "nav.jpg",
-			"path": "../../Documents/nav.jpg"
 		}
 	],
 	"settings": {},
